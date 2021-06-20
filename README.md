@@ -1,4 +1,6 @@
-### Welcome to My Github Profile👋👋
+### Welcome to My Github Profile👋
+
+## Skills
 <!--
 **surfkwon715/surfkwon715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,10 +15,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Skills 💪
 <div>
 <img src="https://img.shields.io/badge/Javascript-black?style=flat-square&logo=Javascript&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=React&logoColor=skyblue"/>
 <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python&logoColor=skyblue"/>
+</div>
+
+## Tools
+<div>
+<img src="https://img.shields.io/badge/Firebase-black?style=flat-square&logo=Firebase&logoColor=yellow"/>
 
 </div>
 
