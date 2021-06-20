@@ -13,11 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
 <img src="https://img.shields.io/badge/Javascript-black?style=flat-square&logo=Javascript&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=React&logoColor=skyblue"/>
 <img src="https://img.shields.io/badge/Javascript-black?style=flat-square&logo=Javascript&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/Javascript-black?style=flat-square&logo=Javascript&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/Javascript-black?style=flat-square&logo=Javascript&logoColor=yellow"/>
+</div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=surfkwon715&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
