@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱  ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -16,14 +16,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Skills 💪
+## Skills 🛠
+I’m currently learning...
 <div>
-<img src="https://img.shields.io/badge/Javascript-black?style=flat-square&logo=Javascript&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/React-black?style=flat-square&logo=React&logoColor=skyblue"/>
-<img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python&logoColor=skyblue"/>
+<img src="https://img.shields.io/badge/Javascript-black?style=flat-square&logo=Javascript"/>
+<img src="https://img.shields.io/badge/Typescript-black?style=flat-square&logo=Typescript"/>
+<img src="https://img.shields.io/badge/React-black?style=flat-square&logo=React"/>
+<img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python"/>
 </div>
 
-## Tools
+## Tools 🧱
 <div>
   <img src="https://img.shields.io/badge/Firebase-black?style=flat-square&logo=Firebase&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=Git"/>
